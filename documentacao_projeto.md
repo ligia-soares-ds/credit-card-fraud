@@ -74,3 +74,4 @@ Outra limitação prática é a ausência do CSV no próprio repositório, exigi
 
 ## Trabalhos futuros
 Como continuidade, o projeto pode ser expandido com técnicas adicionais de tratamento de desbalanceamento, como SMOTE, ajuste de limiar de decisão e comparação com modelos mais avançados. Também é possível aprofundar a avaliação com validação cruzada mais robusta e análise de explicabilidade dos modelos.
+
